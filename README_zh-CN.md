@@ -1,7 +1,7 @@
 # OrangeFox Recovery R12 - Simplified Chinese Enhanced (Unofficial Fork)
 
 基于上游官方 `fox_12.0` 分支的临时维护仓库。  
-**本分支的主要目的**：在官方尚未合并简体中文语言包之前，提前为 `[你的机型]` 提供完整的中文 Recovery 体验。
+**本分支的主要目的**：在官方尚未合并简体中文语言包之前，提前为 `[onyx]` 提供完整的中文 Recovery 体验。
 
 ## ✨ 本分支特性
 - 基于官方 R12 最新源码，**仅增加简体中文（zh-CN）语言支持**，未修改任何核心功能代码。
